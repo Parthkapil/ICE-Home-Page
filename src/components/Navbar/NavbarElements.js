@@ -91,6 +91,7 @@ export const NavLinks = styled(LinkS)`
 export const NavBtn = styled.nav`
 	display: flex;
 	align-items: center;
+	padding-left: 1px;
 
 	@media screen and (max-width: 768px) {
 		display: none;
@@ -104,7 +105,6 @@ export const NavBtnLink = styled.a`
 	padding: 10px 22px;
 	color: #010606;
 	font-size: 16px;
-	outlined: none;
 	border: none;
 	cursor: pointer;
 	transition: all 0.2s ease-in-out;

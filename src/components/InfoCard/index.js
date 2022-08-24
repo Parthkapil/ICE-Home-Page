@@ -12,14 +12,14 @@ import {
 	ImgWrap,
 	Img,
 } from "./testElements";
-import Icon1 from "../../images/landing_page.PNG";
+import Icon1 from "../../images/thumbnail.png";
 import Parent from "../Card";
 
 const eventData = [
 	{
-		name: "Learn To Build Landing Page",
-		description: "Learn how to make a Professional landing page for your business with react.js",
-		Date: "10th, Novemeber",
+		name: "Meet the Team",
+		description: "Meet the executive board and learn about the events planned for this semester.",
+		Date: "24th, August",
 		img: Icon1,
 	},
 ];

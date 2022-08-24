@@ -1,7 +1,6 @@
 import React from "react";
 import Icon2 from "../../images/parth.PNG";
-import Icon3 from "../../images/himanshu.PNG";
-import Icon4 from "../../images/default.svg";
+import Icon3 from "../../images/jay.png";
 import {
 	ServicesContainer,
 	ServicesH1,
@@ -19,14 +18,9 @@ const teamData = [
 		img: Icon2,
 	},
 	{
-		name: "Himanshu Hansaria",
+		name: "Jay Amlani",
 		designation: "Vice President",
 		img: Icon3,
-	},
-	{
-		name: "Lavanya Subramanian",
-		designation: "Lead --",
-		img: Icon4,
 	},
 ];
 

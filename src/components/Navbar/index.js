@@ -77,9 +77,13 @@ const Navbar = ({ toggle }) => {
 						</NavItem>
 					</NavMenu>
 					<NavBtn>
-						{/* href="https://groupme.com/join_group/76453291/e6j4ng9s" target="_blank" */}
 						<NavBtnLink href="https://groupme.com/join_group/76453291/e6j4ng9s" target="_blank">
 							Join GroupMe
+						</NavBtnLink>
+					</NavBtn>
+					<NavBtn style={{ paddingRight: "50px" }}>
+						<NavBtnLink href="https://discord.gg/ppAqVjZP2n" target="_blank">
+							Join Discord
 						</NavBtnLink>
 					</NavBtn>
 				</NavbarContainer>
