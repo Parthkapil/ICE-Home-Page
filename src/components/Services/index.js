@@ -1,6 +1,9 @@
 import React from "react";
-import Icon2 from "../../images/parth.PNG";
-import Icon3 from "../../images/jay.png";
+import parth_pic from "../../images/parth.PNG";
+import jay_pic from "../../images/jay.jpeg";
+import renuka_pic from "../../images/renuka.jpeg";
+import pranav_pic from "../../images/pranav.png";
+
 import {
 	ServicesContainer,
 	ServicesH1,
@@ -14,13 +17,23 @@ import {
 const teamData = [
 	{
 		name: "Parth Kapil",
-		designation: "President",
-		img: Icon2,
+		designation: " President        ",
+		img: parth_pic,
 	},
 	{
 		name: "Jay Amlani",
 		designation: "Vice President",
-		img: Icon3,
+		img: jay_pic,
+	},
+	{
+		name: "Renuka Srishti",
+		designation: "Director of Outreach",
+		img: renuka_pic,
+	},
+	{
+		name: "Pranav",
+		designation: "Director of Operations",
+		img: pranav_pic,
 	},
 ];
 
