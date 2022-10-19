@@ -2,7 +2,7 @@ import React from "react";
 import parth_pic from "../../images/parth.PNG";
 import jay_pic from "../../images/jay.jpeg";
 import renuka_pic from "../../images/renuka.jpeg";
-import pranav_pic from "../../images/pranav.png";
+import pranav_pic from "../../images/pranav.jpg";
 
 import {
 	ServicesContainer,
