@@ -3,6 +3,8 @@ import parth_pic from "../../images/parth.PNG";
 import jay_pic from "../../images/jay.jpeg";
 import renuka_pic from "../../images/renuka.jpeg";
 import pranav_pic from "../../images/pranav.jpg";
+import evan_pic from "../../images/evan.jpg";
+import hannah_pic from "../../images/hannah.jpg";
 
 import {
 	ServicesContainer,
@@ -34,6 +36,16 @@ const teamData = [
 		name: "Pranav",
 		designation: "Director of Operations",
 		img: pranav_pic,
+	},
+	{
+		name: "Evan zona",
+		designation: "Treasurer",
+		img: evan_pic,
+	},
+	{
+		name: "Hannah Jiao",
+		designation: "Design Director",
+		img: hannah_pic,
 	},
 ];
 
