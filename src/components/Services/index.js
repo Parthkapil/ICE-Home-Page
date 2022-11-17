@@ -18,29 +18,19 @@ import {
 
 const teamData = [
 	{
-		name: "Parth Kapil",
-		designation: " President        ",
-		img: parth_pic,
+		name: "Evan zona",
+		designation: "President",
+		img: evan_pic,
 	},
 	{
-		name: "Jay Amlani",
+		name: "Pranav",
 		designation: "Vice President",
-		img: jay_pic,
+		img: pranav_pic,
 	},
 	{
 		name: "Renuka Srishti",
 		designation: "Director of Outreach",
 		img: renuka_pic,
-	},
-	{
-		name: "Pranav",
-		designation: "Director of Operations",
-		img: pranav_pic,
-	},
-	{
-		name: "Evan zona",
-		designation: "Treasurer",
-		img: evan_pic,
 	},
 	{
 		name: "Hannah Jiao",
